@@ -4,7 +4,8 @@ body {
     font: normal 16px sans-serif;
 }
 
-.gallery-container h1 {
+.gallery-container h1,
+.gallery-container h2{
     text-align: center;
     margin-top: 70px;
     font-family: 'Droid Sans', sans-serif;
